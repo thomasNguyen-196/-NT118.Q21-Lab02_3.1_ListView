@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab02_3.1_ListView</string>
+    <string name="selection_info">position : %1$d; value = %2$s</string>
+</resources>
